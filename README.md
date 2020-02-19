@@ -1,4 +1,5 @@
 # Disaster Response Pipeline Project
+
 ## Introduction
 This project was done as a requirement for the Data Scientist Nanodegree and the data was provided by Figure Eight The initial dataset contains pre-labeled tweets and messages from real-life disasters. The goal of the project is to build a Natural Language Processing tool that categorizes messages.
 
@@ -45,6 +46,7 @@ templates: a folder containing the html templates
 3. Go to http://0.0.0.0:3001/
 
 ## Screenshots
+Below screenshots of web app.
 ![Screenshot2](Screenshot2.png)
 ![Screenshot3](Screenshot3.png)
 ![Screenshot1](Screenshot1.png)
