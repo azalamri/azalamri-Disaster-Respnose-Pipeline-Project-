@@ -52,4 +52,4 @@ Below screenshots of web app.
 ![Screenshot1](Screenshot1.png)
 
 ## Acknolewdgment 
-Thanks for Udacity for the started code and for Figure Eight for the data
+Thanks for Udacity for the starter code and for Figure Eight for providing the data
